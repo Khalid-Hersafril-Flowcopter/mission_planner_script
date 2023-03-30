@@ -1,4 +1,4 @@
-# mission_planner_script
+# Mission Planner Script
 
 Before setting this up, ensure that your computer is connected to the CubePilot.
 
